@@ -1,0 +1,13 @@
+{
+  "name": "com.redladygames.autosave",
+  "version": "1.0.0",
+  "displayName": "Autosave Package",
+  "description": "This is a package to autosave your unity scenes",
+  "unity": "2019.4",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Rhys Bowles",
+    "email": "rhys@redlady.games",
+    "url": "https://github.com/rhyswfbowles/"
+  }
+}
